@@ -1,0 +1,2 @@
+# analisisdetraspatio
+proyecto de capstone
